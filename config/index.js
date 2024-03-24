@@ -10,7 +10,7 @@ module.exports = {
   WIKI_URL: 'http://wiki.xxxxx.com/pages/viewpage.action?pageId=', //wiki内容地址
   NAME: '小人头', //备注
   NICKNAME: '左灯右右行', //微信网名
-  TOKEN: 'puppet_padplus_xxxxx',
+  TOKEN: 'puppet_padplus_0dba18942e5e43e59010a11070873d79',
   ROOM: 'xxxxxx@chatroom',
   KEYWORDs:['本组','全部']
 };
